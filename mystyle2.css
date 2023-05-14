@@ -1,0 +1,925 @@
+
+@media screen and (max-width: 930px){
+
+
+    .navssbar{
+        display:none;
+
+    }
+
+    .laurels{
+        width: 15%;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 0px;
+       
+    }
+
+    .aria1{
+        display: none;
+    }
+
+    .aria2{
+       font-size: 25px;
+       display: block;
+       font-weight: 500;
+    }
+
+    
+    .head{
+        display: block;
+    }
+
+
+    .home-text{
+        text-align: center;
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+    
+    .home-text h1{
+        font-weight: bold;
+        font-size:30px;
+        color: white;
+        
+    }
+    .home-text p{
+        line-height: 16.5px;
+        color:antiquewhite;
+        font-size: 14px;
+    }
+
+    .btns a{
+        text-decoration: none;
+        background-color: rgb(5, 216, 153);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 5px;
+        line-height: 50px;
+        width:auto;
+        transition: 0.5s;
+        letter-spacing: 2px;
+        border: 1px solid rgb(5, 216, 153);
+        
+     }
+
+
+     .btns a:hover{
+        color: white;
+        letter-spacing: 3px;
+        text-decoration-line: none;
+        background: transparent;
+        font-weight: 400;
+    }
+    
+
+    
+   /*  *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   */
+
+
+
+.first-column{
+    float: none;
+     width: 100%; 
+ }
+
+
+ .first-column h6, .first-column h5, .first-column h2, .first-column p{
+    padding-left: 45px;
+}
+
+.first-column img{
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 22px;
+   
+}
+
+.second-cont{
+    width: 100%;
+    clear: left;
+    flex: none;
+    display: block;
+    padding-left: 45px;
+    padding-top: 70px;
+}
+
+.third-column{
+    padding-bottom: 30px;
+}
+
+
+/*  *** Third Container  ****
+   *   *** Third Container  ****
+   *   *** ThirdContainer  ****
+   *   *** Third Container  ****
+   */
+
+   .third-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding-left:40px;
+    padding-bottom: 25px;
+}
+
+   .third-cont1{
+    margin-bottom: 50px;
+   }
+
+   .third-cont2{
+    margin-bottom: 50px;
+   }
+
+   .third-cont3{
+    margin-bottom: 50px;
+   }
+
+
+.third-conti h6{
+    display: block;
+    width: 100%;
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.third-conti h4{
+    margin-left: 45px;
+    text-align: left;
+    margin-bottom: 25px;
+    
+}
+  
+
+ /* Fourth container **
+ *
+ *
+ */
+
+.first-phase{
+    flex:none;
+    width: 100%;
+    float: none;
+}
+
+
+.textt{
+    float: none;
+    width: 100%; 
+    color: #484a46;
+          
+}
+
+.progs h4{
+    padding-left: 45px;
+}
+
+.progs p{
+    padding-left: 45px;
+}
+
+.progs h5{
+    padding-left: 45px;
+   
+}
+
+.pro {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-top: 70px;
+       
+}
+
+
+/* sixth container 
+*
+*
+*
+*/
+
+.sixth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding: 0px;
+}
+
+.call-me{
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+
+.call-form{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding-left: 28px;
+    padding-bottom: 50px;
+}
+
+.terms {
+    width: 70%;
+    margin: 10px;
+    background: none ;
+    color: white;
+    padding-left: 0px;
+    font-size: small;
+    padding-top: 6px;
+    
+ }
+
+ #name {
+    width: 80%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+ 
+ #tel {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+  #email {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+ 
+  #browsers {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+
+  #submit {
+    width: 80%;
+    margin: 10px;
+    background-color: rgb(5, 216, 153) ;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid rgb(5, 216, 153);
+ }
+
+
+ /* seventh container **
+ *
+ *
+ */
+
+ .show-all span{
+    border-radius: 5px ;
+    padding: 1px 9px;
+    margin: 0px 2.5px;
+}
+
+.project{
+    float: left;
+    width:50%;
+   
+}
+
+
+ /* Eight container **
+ *
+ *
+ */
+
+.eight-text p{
+    font-size: 15px;
+}
+
+
+/* ninth container **
+*
+*
+*
+*/  
+
+
+.ninth-container{
+    width: 100%;
+}
+
+.ninth-cont{
+    padding-top: 50px;
+    padding-left: 30px;
+   
+}
+
+.ninth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding: 65px 20px 80px;
+   
+}
+
+.ninth-image{
+    width: 100%;
+    padding-left: 30px;
+    display: block;
+}
+
+
+.ninth-numbers{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    
+}
+
+/** Tenth  container **
+**
+**
+*/
+
+
+.tenth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    background-color:rgba(0, 0, 0, 0.035) ;
+    justify-content: space-between;
+}
+
+
+.contact-us{
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 75px;
+}
+
+.contactus-form{
+    width: 100%;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 75px;
+}
+
+
+
+
+/** Eleventh  container **
+**
+**
+*/
+
+
+.eleventh-inner{
+    width: 100%;
+    display: block;
+    flex: none;
+    padding-left: 40px;
+    padding-top: 60px;
+
+}
+
+.linksz{
+    padding-bottom: 20px;
+}
+
+.tools{
+    padding-bottom: 20px;
+}
+
+.partners{
+    padding-bottom: 20px;
+}
+
+
+.copy-right{
+    width: 100%;
+    text-align: left;
+    padding-left: 40px;
+}
+
+
+
+
+}
+
+
+
+
+
+
+@media screen and (max-width: 800px){
+
+    .ninth-numbers{
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        
+    }
+
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width: 700px){
+
+
+    .navssbar{
+        display:none;
+
+    }
+
+    .laurels{
+        width: 15%;
+        justify-content: space-around;
+        display: flex;
+        margin-left: 0px;
+       
+    }
+
+    .aria1{
+        display: none;
+    }
+
+    .aria2{
+       font-size: 25px;
+       display: block;
+       font-weight: 500;
+    }
+
+
+
+
+    .home-text{
+        text-align: center;
+        padding-top: 150px;
+        padding-bottom: 200px;
+    }
+    
+    .home-text h1{
+        font-weight: bold;
+        font-size:30px;
+        color: white;
+        
+    }
+    .home-text p{
+        line-height: 16.5px;
+        color:antiquewhite;
+        font-size: 14px;
+    }
+
+    .btns a{
+        text-decoration: none;
+        background-color: rgb(5, 216, 153);
+        color: white;
+        padding: 5px 15px;
+        border-radius: 5px;
+        line-height: 50px;
+        width:auto;
+        transition: 0.5s;
+        letter-spacing: 2px;
+        border: 1px solid rgb(5, 216, 153);
+        
+     }
+
+
+     .btns a:hover{
+        color: white;
+        letter-spacing: 3px;
+        text-decoration-line: none;
+        background: transparent;
+        font-weight: 400;
+    }
+    
+
+    
+   /*  *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   */
+
+
+
+.first-column{
+    float: none;
+     width: 100%; 
+ }
+
+
+ .first-column h6, .first-column h5, .first-column h2, .first-column p{
+    padding-left: 45px;
+}
+
+.first-column img{
+    width: 80%;
+    padding-left: 40px;
+    padding-top: 22px;
+   
+}
+
+.second-cont{
+    width: 100%;
+    clear: left;
+    flex: none;
+    display: block;
+    padding-left: 45px;
+    padding-top: 70px;
+}
+
+.third-column{
+    padding-bottom: 30px;
+}
+
+
+/*  *** Third Container  ****
+   *   *** Third Container  ****
+   *   *** ThirdContainer  ****
+   *   *** Third Container  ****
+   */
+
+
+.third-cont{
+    float: none;
+    width: 100%;
+}
+
+.third-contain{
+    background-color: rgba(0, 0, 0, 0.035) ;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.jumbotron{
+    background-repeat: no-repeat;
+    background-size: 100%; 
+    width:70%;
+    text-align: left;
+    margin-left: 45px;
+    background-color: white;
+    border: 1px solid rgba(0,0,0,0.15);
+    border-radius: 30px;
+    
+}
+
+#firstjum{
+    height: 495px;
+    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-1.jpg');
+}
+
+#secondjum{
+    height: 465px;
+    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-2.jpg');
+}
+
+#thirdjum{
+    height: 465px; 
+    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-3.jpg');
+}
+
+.third-conti h6{
+    display: block;
+    width: 100%;
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 45px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.third-conti h4{
+    margin-left: 45px;
+    text-align: left;
+    margin-bottom: 25px;
+    
+}
+  
+
+ /* Fourth container **
+ *
+ *
+ */
+
+.first-phase{
+    flex:none;
+    width: 100%;
+    float: none;
+}
+
+
+.textt{
+    float: none;
+    width: 100%; 
+    color: #484a46;
+          
+}
+
+.progs h4{
+    padding-left: 45px;
+}
+
+.progs p{
+    padding-left: 45px;
+}
+
+.progs h5{
+    padding-left: 45px;
+   
+}
+
+.pro {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 0px;
+    margin-top: 70px;
+       
+}
+
+
+/* sixth container 
+*
+*
+*
+*/
+
+.sixth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding: 0px;
+}
+
+.call-me{
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 50px;
+}
+
+.call-form{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding-left: 28px;
+    padding-bottom: 50px;
+}
+
+.terms {
+    width: 70%;
+    margin: 10px;
+    background: none ;
+    color: white;
+    padding-left: 0px;
+    font-size: small;
+    padding-top: 6px;
+    
+ }
+
+ #name {
+    width: 80%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+ 
+ #tel {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+  #email {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+ 
+  #browsers {
+     width: 80%;
+     margin: 10px;
+     background-color: rgb(82, 96, 107) ;
+     border-radius: 5px;
+     color: white;
+     padding-left: 10px;
+     font-size: small;
+     padding-top: 8px;
+     padding-bottom: 8px;
+  }
+ 
+
+  #submit {
+    width: 80%;
+    margin: 10px;
+    background-color: rgb(5, 216, 153) ;
+    border-radius: 5px;
+    color: white;
+    font-size: small;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: 1px solid rgb(5, 216, 153);
+ }
+
+
+ /* seventh container **
+ *
+ *
+ */
+
+ .show-all span{
+    border-radius: 5px ;
+    padding: 1px 9px;
+    margin: 0px 2.5px;
+}
+
+.project{
+    float: left;
+    width:50%;
+   
+}
+
+
+ /* Eight container **
+ *
+ *
+ */
+
+.eight-text p{
+    font-size: 13px;
+}
+
+
+/* ninth container **
+*
+*
+*
+*/  
+
+
+.ninth-container{
+    width: 100%;
+}
+
+.ninth-cont{
+    padding-top: 50px;
+    padding-left: 30px;
+   
+}
+
+.ninth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding: 65px 20px 80px;
+   
+}
+
+.ninth-image{
+    width: 100%;
+    padding-left: 30px;
+    display: block;
+}
+
+
+/** Tenth  container **
+**
+**
+*/
+
+
+.tenth-inner{
+    width: 100%;
+    flex: none;
+    display: block;
+    background-color:rgba(0, 0, 0, 0.035) ;
+    justify-content: space-between;
+}
+
+
+.contact-us{
+    width: 100%;
+    padding-left: 40px;
+    padding-top: 80px;
+    padding-bottom: 75px;
+}
+
+.contactus-form{
+    width: 100%;
+    padding-top: 80px;
+    padding-left: 40px;
+    padding-bottom: 75px;
+}
+
+
+
+
+/** Eleventh  container **
+**
+**
+*/
+
+
+.eleventh-inner{
+    width: 100%;
+    display: block;
+    flex: none;
+    padding-left: 40px;
+    padding-top: 60px;
+
+}
+
+.linksz{
+    padding-bottom: 20px;
+}
+
+.tools{
+    padding-bottom: 20px;
+}
+
+.partners{
+    padding-bottom: 20px;
+}
+
+
+.copy-right{
+    width: 100%;
+    text-align: left;
+    padding-left: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

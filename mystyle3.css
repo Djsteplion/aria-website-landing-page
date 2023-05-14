@@ -1,0 +1,334 @@
+@media screen and (max-width:500px){
+
+
+.home-text p{
+    line-height: 12px;
+    color:antiquewhite;
+    font-size: 11px;
+}
+
+.btns a{
+    text-decoration: none;
+    background-color: rgb(5, 216, 153);
+    color: white;
+    padding: 3px 13px;
+    border-radius: 5px;
+    line-height: 30px;
+    width:auto;
+    transition: 0.5s;
+    letter-spacing: 2px;
+    border: 1px solid rgb(5, 216, 153);
+    
+ }
+
+
+/*  *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   *   *** Second Container  ****
+   */
+
+ .first-column h6, .first-column h5, .first-column h2, .first-column p{
+    padding-left: 15px;
+}
+
+.first-column p{
+    font-size: 13px;
+}
+.first-column img{
+    width: 100%;
+    padding-left: 15px;
+    padding-top: 22px;
+   
+}
+
+.second-cont{
+    width: 100%;
+    clear: left;
+    flex: none;
+    display: block;
+    padding-left: 15px;
+    padding-top: 70px;
+}
+
+
+/*  *** Third Container  ****
+   *   *** Third Container  ****
+   *   *** ThirdContainer  ****
+   *   *** Third Container  ****
+   */
+
+   .third-inner{
+    padding-left: 20px;
+   }
+
+   .third-conti h6{
+    display: block;
+    width: 100%;
+    margin-top: 100px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+}
+
+.third-conti h4{
+    margin-left: 20px;
+    text-align: left;
+    margin-bottom: 25px;
+    
+}
+
+
+ /* Fourth container **
+ *
+ *
+ */
+
+ .progs h4{
+    padding-left: 16px;
+}
+
+.progs p{
+    padding-left: 18px;
+}
+
+.progs h5{
+    padding-left: 15px;
+   
+}
+
+.pro {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+    width: 100%;
+       
+}
+
+#business{
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+#expertise{
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+#quality{
+    padding-right: 15px;
+    padding-left: 0;
+}
+
+
+/* sixth container 
+*
+*
+*
+*/
+
+
+.call-me{
+    width: 100%;
+    padding-left: 15px;
+    padding-top: 50px;
+}
+
+.call-me p{
+    font-size: 13px;
+}
+
+.call-form{
+    width: 100%;
+    flex: none;
+    display: block;
+    padding-left: 2px;
+    padding-bottom: 50px;
+}
+
+
+.terms {
+    width: 70%;
+    margin: 10px;
+    background: none ;
+    color: white;
+    padding-left: 0px;
+    font-size: 12px;
+    padding-top: 6px;
+    
+ }
+
+ #name {
+    width: 90%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+
+ #tel {
+    width: 90%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+
+ #email {
+    width: 90%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+
+
+ #browsers {
+    width: 90%;
+    margin: 10px;
+    background-color: rgb(82, 96, 107) ;
+    border-radius: 5px;
+    color: white;
+    padding-left: 10px;
+    font-size: small;
+    padding-top: 8px;
+    padding-bottom: 8px;
+ }
+
+
+ #submit {
+   width: 90%;
+   margin: 10px;
+   background-color: rgb(5, 216, 153) ;
+   border-radius: 5px;
+   color: white;
+   font-size: small;
+   padding-top: 6px;
+   padding-bottom: 6px;
+   border: 1px solid rgb(5, 216, 153);
+}
+
+
+/* seventh container **
+*
+*
+*/
+
+.show-all span{
+    border-radius: 5px ;
+    padding: 1px 7px;
+    margin: 0px 2.5px;
+    font-size: 10px;
+}
+
+.project{
+    float: left;
+    width:100%;
+   
+}
+
+
+ /* Eight container **
+ *
+ *
+ */
+
+ .eight-text p{
+    font-size: 15px;
+    padding: 3px;
+}
+
+.men{
+    display: none;
+}
+
+
+/* ninth container **
+*
+*
+*
+*/  
+
+
+.ninth-cont{
+    padding-top: 50px;
+    padding-left: 7.5px;
+   
+}
+
+.ninth-image{
+    width: 100%;
+    padding-left: 7.5px;
+    display: block;
+}
+
+.mens{
+    display: none;
+}
+
+.every{
+    font-size: 14px;
+}
+
+.numb-text{
+    font-size: 13px;
+}
+
+/** Tenth  container **
+**
+**
+*/
+
+.contact-us{
+    width: 100%;
+    padding-left: 25px;
+    padding-top: 80px;
+    padding-bottom: 75px;
+}
+
+.contactus-form{
+    width: 100%;
+    padding-top: 80px;
+    padding-left: 25px;
+    padding-bottom: 75px;
+}
+
+.termz{
+    font-size: 10px;
+}
+
+/** Eleventh  container **
+**
+**
+*/
+
+
+.eleventh-inner{
+    width: 100%;
+    display: block;
+    flex: none;
+    padding-left: 20px;
+    padding-top: 60px;
+
+}
+
+.copy-right{
+    width: 100%;
+    text-align: left;
+    padding-left: 20px;
+}
+
+}
