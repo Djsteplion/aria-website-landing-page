@@ -271,7 +271,7 @@ h6 {
     
     width: 100%;
     padding-bottom: 50px;
-    background-image: url('Images/header-background.jpg');
+    background-image: url('header-background.jpg');
     background-size: cover;
     
 }
@@ -315,7 +315,7 @@ h6 {
 }
  
 #twitt{
-    background-image: url("Images/hexagon-green.svg");
+    background-image: url("hexagon-green.svg");
     text-align: center;
     padding:  8px 9px ;
     background-repeat: no-repeat;
@@ -328,7 +328,7 @@ h6 {
 #twitt:hover{
     color: rgb(5, 216, 153);
     cursor: pointer;
-    background-image: url("Images/hexagon-white.svg");
+    background-image: url("hexagon-white.svg");
     background-size: contain;
     text-align: center;
     padding:  8px 9px ;
@@ -339,7 +339,7 @@ h6 {
 }
 
 #face{
-    background-image: url("Images/hexagon-green.svg");
+    background-image: url("hexagon-green.svg");
     text-align: center;
     padding: 10px 12px;
     background-repeat: no-repeat;
@@ -352,7 +352,7 @@ h6 {
 #face:hover{
     color: rgb(5, 216, 153);
     cursor: pointer;
-    background-image: url("Images/hexagon-white.svg");
+    background-image: url("hexagon-white.svg");
     background-size: contain;
     text-align: center;
     padding: 10px 12px;
@@ -545,7 +545,7 @@ h6 {
     padding: 90px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url('Images/service-1.jpg');
+    background-image: url('service-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -554,7 +554,7 @@ h6 {
     padding: 90px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url('Images/service-2.jpg');
+    background-image: url('service-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -563,7 +563,7 @@ h6 {
     padding: 90px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-    background-image: url('Images/service-3.jpg');
+    background-image: url('service-3.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
