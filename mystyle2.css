@@ -606,17 +606,17 @@
 
 #firstjum{
     height: 495px;
-    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-1.jpg');
+    background-image: url('service-1.jpg');
 }
 
 #secondjum{
     height: 465px;
-    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-2.jpg');
+    background-image: url('service-2.jpg');
 }
 
 #thirdjum{
     height: 465px; 
-    background-image: url('C:/Users/User/Desktop/HTML Crashcourse/STEVO/Naishare website/Naishare/Naishare Web/Images/service-3.jpg');
+    background-image: url('service-3.jpg');
 }
 
 .third-conti h6{
