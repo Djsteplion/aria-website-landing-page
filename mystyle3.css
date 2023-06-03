@@ -20,6 +20,10 @@
     border: 1px solid rgb(5, 216, 153);
     
  }
+    
+    .mobileview{
+        display:  inline;
+        }
 
 
 /*  *** Second Container  ****
@@ -33,7 +37,7 @@
 }
 
 .first-column p{
-    font-size: 13px;
+    font-size: 11px;
 }
 .first-column img{
     width: 100%;
@@ -91,10 +95,13 @@
 
 .progs p{
     padding-left: 18px;
+    font-size: 11px;
+    
 }
 
 .progs h5{
     padding-left: 15px;
+    
    
 }
 
