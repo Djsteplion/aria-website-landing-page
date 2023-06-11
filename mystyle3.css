@@ -3,12 +3,12 @@
 
     body { 
         overflow-x: hidden!important;
-        overflow-y: hidden!important;
+        
     }
     
     html{  
     overflow-x: hidden;
-        overflow-y: hidden;
+       
     }
     
 .home-text p{
