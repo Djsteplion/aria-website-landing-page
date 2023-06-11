@@ -2,7 +2,7 @@
 
 
     body { 
-        overflow-x: hidden!important;
+        overflow-x: scroll;
         
     }
     
