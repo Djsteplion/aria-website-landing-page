@@ -4,6 +4,9 @@ html {
 	height: 100%;
 	
 }
+body{
+   overflow-x: hidden;
+}
 
 /*
 <!---color:#787976; ---->
