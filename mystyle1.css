@@ -378,9 +378,18 @@ h6 {
     color: white;
 }
 .home-text p{
-    line-height: 25px;
-    color:antiquewhite;
+    line-height: 30px;
+    color: white;
     font-size: 19px;
+}
+
+.break1{
+   display: block;
+}
+
+.break2{
+	display: none;
+
 }
 
 
