@@ -1,15 +1,7 @@
 @media screen and (max-width:500px){
 
 
-    body { 
-        overflow-x: scroll;
-        
-    }
     
-    html{  
-
-       
-    }
     
 .home-text p{
     line-height: 12px;
