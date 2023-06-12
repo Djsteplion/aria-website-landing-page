@@ -4,8 +4,8 @@
     
     
 .home-text p{
-    line-height: 12px;
-    color:antiquewhite;
+    line-height: 20px;
+    color:white;
     font-size: 11px;
 }
 
@@ -339,5 +339,20 @@
     text-align: left;
     padding-left: 20px;
 }
+
+}
+
+@media screen and (max-width: 375px){
+    .third-cont1, .third-cont2, .third-cont3{ 
+        width: 260px;
+    }
+    
+    .first-column h2{
+         font-size: large;
+    }
+    
+    .first-phase{
+        overflow-x: scroll;
+    }
 
 }
