@@ -355,4 +355,13 @@
         overflow-x: scroll;
     }
 
+    break1{
+   display: none;
+}
+
+.break2{
+	display: block;
+
+}
+    
 }
