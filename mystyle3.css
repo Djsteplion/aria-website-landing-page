@@ -130,7 +130,15 @@
     padding-left: 0;
 }
 
+.prog { 
+    padding-left: 12px;  
+   padding-right: 10px;  }
 
+.prog-2{
+  padding-left: 12px;  
+   padding-right: 10px;  }
+	
+	
 /* sixth container 
 *
 *
@@ -365,6 +373,9 @@
 	  font-size: 14px; 
 	   }
 	
+	
+	.texts h4{  font-size: medium; }
+
 	
 	
 	
