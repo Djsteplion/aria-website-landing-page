@@ -4,7 +4,7 @@
     
     
 .home-text p{
-    line-height: 20px;
+    line-height: 25px;
     color:white;
     font-size: 11px;
 }
@@ -375,8 +375,14 @@
 	
 	
 	.texts h4{  font-size: medium; }
-
 	
+.condition{
+  padding-left: 10px;
+    }
+
+	.number h1 { 
+    font-size: medium;  
+    }
 	
 	
 }
