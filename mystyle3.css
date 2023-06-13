@@ -359,10 +359,21 @@
          font-size: large;
     }
    
-
+.home-text p{
+	
+	}
+	
+	.home-text p{
+  text-align: center;
+    }
     .break1{
    display: none;
 }
+	
+	
+.break2{ 
+ display: none;
+	}
 
    .third-column h4{
 	  font-size: medium; 
