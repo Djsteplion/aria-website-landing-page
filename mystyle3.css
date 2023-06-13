@@ -342,7 +342,7 @@
 
 }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 400px){
     .third-cont1, .third-cont2, .third-cont3{ 
         width: 260px;
     }
@@ -350,18 +350,22 @@
     .first-column h2{
          font-size: large;
     }
-    
-    .first-phase{
-        overflow-x: scroll;
-    }
+   
 
     break1{
    display: none;
 }
 
-.break2{
-	display: block;
-
-}
-    
+   .third-column h4{
+	  font-size: medium; 
+	   }
+	
+	
+	.third-column p{
+	  font-size: 14px; 
+	   }
+	
+	
+	
+	
 }
