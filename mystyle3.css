@@ -179,18 +179,19 @@
 
 
 .call-me{
-    width: 90%;
+    width: 95%;
     text-align:left;
-    padding-left: 15px;
+    padding-left: 16px;
     padding-top: 50px;
 }
 
 .call-me p{
     font-size: 13px;
+	
 }
 
 .call-form{
-    width: 90%;
+    width: 95%;
     flex: none;
     display: block;
     padding-left: 10px;
