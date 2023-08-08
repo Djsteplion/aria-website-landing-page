@@ -75,6 +75,7 @@
    .third-inner{
 	   width: 100%;
     text-align: center;
+	   padding-left: 40px;
    }
 
    .third-conti h6{
@@ -283,7 +284,7 @@
 
  .eight-text p{
     font-size: 15px;
-    padding: 3px;
+    padding: 8px 15px;
 }
 
 .men{
