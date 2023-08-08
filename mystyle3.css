@@ -12,6 +12,10 @@
 
 }
 
+	.break1, .break2{
+		display:none;
+	}
+
 .btns a{
     text-decoration: none;
     background-color: rgb(5, 216, 153);
@@ -68,7 +72,8 @@
    */
 
    .third-inner{
-    padding-left: 20px;
+	   width: 100%;
+    text-align: center;
    }
 
    .third-conti h6{
