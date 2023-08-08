@@ -114,9 +114,9 @@
  *
  */
 
-	.first-phase, .textt{
-		width:95%;
-		padding: auto 15px!important;
+	.prog, .prog-2{
+		width:100%;
+		padding: auto 16px!important;
 	}
 
  .progs h4{
