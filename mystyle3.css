@@ -95,6 +95,10 @@
     
 }
 
+	.texts h4{
+		padding-top:6px;
+	}
+	
 	.third-contain{
 		width:100%;
 		text-align: center;
@@ -133,6 +137,10 @@
     width: 100%;
        
 }
+
+	.businesses p{
+		font-size: 12px;
+	}
 
 #business{
     padding-right: 15px;
@@ -352,7 +360,10 @@
 **
 **
 */
-
+.few-words p{
+	padding-right: 10px;
+	font-size: 13px;
+}
 
 .eleventh-inner{
     width: 100%;
