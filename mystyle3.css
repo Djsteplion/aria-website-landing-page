@@ -1,7 +1,9 @@
 @media screen and (max-width:500px){
 
 
-    
+    .home-text{
+	    width:100%;
+    }
     
 .home-text p{
     line-height: 25px;
@@ -9,7 +11,7 @@
     font-size: 11px;
 	justify-content: center;
 	align-items: center;
-	margin-left:16px!important;
+	margin-left:33px!important;
 	width:60%;
 	text-align: center;
 
