@@ -7,9 +7,9 @@
     line-height: 25px;
     color:white;
     font-size: 11px;
-	justify-item: center;
-	align-item: center;
-	padding-left:16px;
+	justify-content: center;
+	align-items: center;
+	
 	width:60%;
 	text-align: center;
 
